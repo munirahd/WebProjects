@@ -34,12 +34,11 @@ This project is the meant for the responsive web design course I had a lot of fu
 Dec 2021 until Jun 2022
 
 ## What I learned?
-HTML (Hypertext Markup Language)
-CSS (Cascading Style Sheets)
-Responsive Web Design
-Web Accessibility
-Git and Version Control
-Web Design Principles
-Front-End Development
+* HTML (Hypertext Markup Language)
+* CSS (Cascading Style Sheets)
+* Responsive Web Design
+* Web Accessibility
+* Web Design Principles
+* Front-End Development
 
 
