@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - Survey form</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div id="header">
+  <h1 id="title"> munirah survey </h1>
+  <p id="description"> how much you love munirah? .. this survey will reveal the truth </p>
+</div>
+
+<div id="main">
+  <form id="survey-form">
+    <label id="name-label" for="name">enter your name</label>
+    <input id="name" type="text" placeholder= "name" required> 
+    <br>
+    <br>
+    <label id="email-label" for="email"> enter your email</label>
+       <input id="email" type="email" placeholder= "email" required> 
+    <br>
+    <br>
+    <label id="number-label" for="number">enter a number between 0 and 100 </label>
+       <input id="number" type="number" placeholder= "number" min="0" max="100"> 
+    <br>
+    <br>
+    <label for="dropdown"> munirah is ? </label>
+    <select name ="munirah-is" id="dropdown">
+      <option value="kind"> kind</option>
+            <option value="smart"> smart</option>
+            <option value="funny"> funny</option>
+            <option value="pretty"> pretty</option>
+    </select>
+    <br>
+    
+    
+    <label for="brave"><input id="brave" type="radio" name="Quality" value="brave"> brave </label>   
+        <label for="strong"><input id="strong" type="radio" name="Quality" value="strong"> strong </label>   
+    <br>
+       <label for="pretty"><input id="pretty" type="radio" name="looks" value="pretty"> pretty </label>   
+        <label for="attractive"><input id="attractive" type="radio" name="looks" value="attractive" > attractive </label> 
+   <br>
+    <br> 
+    <p> how much munirah make weekly?</p>
+    <label for="money1"><input id="money1" type="checkbox" name="money" value="10k"> 10k </label>
+        <label for="money2"><input id="money2" type="checkbox" name="money" value="20k"> 20k </label>
+        <label for="money3"><input id="money3" type="checkbox" name="money" value="50k"> 50k </label>
+    <br>
+    <br>
+    <label for="textarea"> enter comments </label>
+    <br>
+    <textarea id="textarea" type="text" placeholder="your comments" rows="5" cols="30">
+    </textarea>
+    <br>
+    <button type="submit" id="submit">submit</button>
+  </form>
+</div>
+<!-- partial -->
+  <script src='https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js'></script><script  src="./script.js"></script>
+
+</body>
+</html>

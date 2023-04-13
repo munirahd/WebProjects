@@ -1,0 +1,20 @@
+#header{
+ text-align : center ; 
+  font-family: 	Copperplate;
+  background-color: #cceefb;
+  padding: 1px;
+}
+
+#main{
+ text-align : center ; 
+  font-family: 	Copperplate;
+  background-color: #cceefb;
+}
+
+#survey-form{
+  background-color:#cbb7ff;
+padding: 20px;
+  margin-left:200px;
+    margin-right:200px;
+  margin-bottom:20px;
+}

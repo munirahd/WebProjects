@@ -1,0 +1,69 @@
+body{
+  color: white;
+  background: black;
+  Font-family : Garamond;
+}
+
+
+#navbar {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 260px;
+  height: 100%;
+  border-right: solid;
+  border-color: white;
+}
+
+#main-doc{
+  position: absolute;
+   padding: 20px;
+margin-left: 300px;
+margin-bottom: 110px;
+}
+
+header{
+  font-size:28px;
+  margin: 20px 0 0 0;
+  font-weight: bold;
+}
+
+#navbar header{
+  margin: 20px 0 20px 10px;
+}
+
+
+#navbar a{
+  font-size:18px;
+display: block;
+padding: 10px 30px;
+text-decoration: none;
+color: lightgray;
+border-bottom: 1px solid;
+border-color: white;
+}
+
+code{
+  display: block;
+  background-color: gray;
+  line-height: 2;
+   padding: 15px;
+   margin: 10px;
+    border-radius: 5px;
+    width: 550px;
+}
+@media (max-width:800px){
+ #navbar {
+    position: absolute;
+    top: 0;
+    padding: 0;
+    margin: 0;
+    max-height: 275px;
+    width: 100%;
+  }
+    #main-doc {
+    position: relative;
+    margin-left: 0px;
+    margin-top: 350px;
+  }
+}

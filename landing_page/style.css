@@ -1,0 +1,151 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f6f6f5;
+  font-family: "Lucida Console";
+  color: #6f8e8a;
+  word-wrap: break-word;
+  max-width: 1250px;
+}
+#header {
+  position: fixed;
+  top: 0;
+  min-height: 75px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 18px;
+  background-color: #f6f6f5;
+  width: 100%;
+}
+.logo {
+  width: 50vw;
+}
+#header-img {
+  width: 100%;
+  height: 100%;
+  max-width: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-left: 100px;
+}
+
+.nav-link {
+  color: #6f8e8a;
+  text-decoration: none;
+}
+nav > ul {
+  width: 300px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  list-style-type: none;
+}
+
+#hero {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 200px;
+  margin-top: 120px;
+  background-color: #d0cbc2;
+}
+#hero > h2 {
+  margin-bottom: 20px;
+  word-wrap: break-word;
+}
+
+#hero input[type="submit"] {
+  max-width: 150px;
+  height: 30px;
+  width: 100%;
+  margin: 15px 0px;
+  border: 0;
+  background-color: #c6dbda;
+  font-size: 18px;
+}
+#hero input[type="email"] {
+  max-width: 255px;
+  width: 100%;
+  padding: 5px;
+}
+.grid {
+  display: flex;
+  /* background: orange; */
+}
+.icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 125px;
+  width: 15vw;
+  /* background: black;*/
+}
+.icon-image {
+  max-width: 140px;
+  max-width: 75px;
+}
+.desc {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 125px;
+  width: 80vw;
+  /* background: grey; */
+  padding: 15px;
+}
+#how-it-works {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+@media (max-width: 600px) #header {
+  flex-direction: column;
+}
+#pricing {
+  /* margin-top: */
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  color: black;
+}
+.product {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: calc(100% / 3);
+  margin: 10px;
+  border: 1px solid black;
+}
+.product > h2 {
+  margin: 15px;
+}
+.product > ol > li {
+  margin: 5px;
+}
+.level {
+  background-color: #ddd;
+  color: black;
+  padding: 15px 0;
+  width: 100%;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+.btn {
+  background-color: #f1c40f;
+  padding: 0px 20px;
+  height: 40px;
+  text-transform: uppercase;
+  border: 0;
+  margin: 15px;
+}
