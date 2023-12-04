@@ -1,44 +1,39 @@
-# Designing and creating responsive webpages 🎨
-Welcome to my repository! Here, you will find a collection of coding projects that I completed as part of the Responsive Web Design certification from freeCodeCamp. These projects showcase my proficiency in HTML, CSS, and responsive design.
+# Responsive Web Design Portfolio 🎨
 
-## What?
+## Introduction
+Welcome to my responsive web design portfolio! This collection of projects, completed as part of the Responsive Web Design certification from freeCodeCamp, demonstrates my skills in HTML, CSS, and the principles of responsive design.
 
-The projects in this repository are as follows:
+## Projects Overview
 
-Tribute Page: I created a visually appealing tribute page that pays homage to Amelia Earhart.
+### 1. Tribute Page
+- **Description:** A tribute page dedicated to Amelia Earhart, combining aesthetics with functionality.
+- **Features:** Visually appealing design elements that pay homage to Amelia Earhart.
+- ![Tribute Page Screenshot](https://user-images.githubusercontent.com/80950031/231854164-2c396fe0-b6e9-476a-9f09-49c85e3a7091.png)
 
-<img width="600" alt="Screenshot 2023-04-13 at 9 29 47 PM" src="https://user-images.githubusercontent.com/80950031/231854164-2c396fe0-b6e9-476a-9f09-49c85e3a7091.png">
+### 2. Survey Form
+- **Description:** A responsive survey form showcasing proficiency in form elements and validation.
+- **Highlights:** User-friendly interface and responsiveness across various devices.
+- ![Survey Form Screenshot](https://user-images.githubusercontent.com/80950031/231854122-3b14e135-9dc8-4795-8b71-a3a5ccc7ab69.png)
 
+### 3. Product Landing Page
+- **Description:** A product landing page with features like navigation bars, product information, and call-to-action sections.
+- **Techniques:** Advanced CSS methods like flexbox and grid for responsive layouts.
+- ![Product Landing Page Screenshot](https://user-images.githubusercontent.com/80950031/231854486-db5c348e-2bf9-4577-b254-959198bfa0af.png)
 
-Survey Form: I designed a responsive survey form that showcases my understanding of form elements, form validation, and responsiveness to different screen sizes. It highlights my ability to create user-friendly forms using HTML and CSS.
+### 4. Technical Documentation Page
+- **Description:** A well-structured technical documentation page.
+- **Functionality:** Effective formatting with proper headings and code snippets.
+- ![Technical Documentation Page Screenshot](https://user-images.githubusercontent.com/80950031/231854665-ebf7a441-4bcf-41bd-be4a-5d712f48ede7.png)
 
-<img width="600" alt="Screenshot 2023-04-13 at 9 45 06 PM" src="https://user-images.githubusercontent.com/80950031/231854122-3b14e135-9dc8-4795-8b71-a3a5ccc7ab69.png">
+## Purpose
+These projects were undertaken as part of a responsive web design course. They were not only educational but also an enjoyable exploration of front-end web design.
 
+## Timeline
+**Duration:** December 2021 to June 2022
 
-Product Landing Page: I built a visually appealing product landing page that includes features such as a navigation bar, product information, and a call-to-action section. This project showcases my use of advanced CSS techniques like flexbox or grid to create responsive layouts.
-
-<img width="600" alt="Screenshot 2023-04-13 at 9 46 53 PM" src="https://user-images.githubusercontent.com/80950031/231854486-db5c348e-2bf9-4577-b254-959198bfa0af.png">
-
-
-Technical Documentation Page: I created a clear and organized technical documentation page that demonstrates my ability to create well-formatted documentation with proper headings and code snippets using HTML and CSS.
-
-<img width="600" alt="Screenshot 2023-04-13 at 9 47 30 PM" src="https://user-images.githubusercontent.com/80950031/231854665-ebf7a441-4bcf-41bd-be4a-5d712f48ede7.png">
-
-
-All projects in this repository are responsive and follow best practices for HTML and CSS coding
-
-## Why?
-This project is the meant for the responsive web design course I had a lot of fun designing and creating front ended webpages
-
-## When? 
-Dec 2021 until Jun 2022
-
-## What I learned?
-* HTML (Hypertext Markup Language)
-* CSS (Cascading Style Sheets)
-* Responsive Web Design
-* Web Accessibility
-* Web Design Principles
-* Front-End Development
-
-
+## Skills Acquired
+- Proficiency in **HTML (Hypertext Markup Language)** and **CSS (Cascading Style Sheets)**.
+- Understanding and application of **Responsive Web Design** principles.
+- Knowledge of **Web Accessibility** standards.
+- Grasping essential **Web Design Principles**.
+- Skills in **Front-End Development**, creating user-friendly and aesthetically pleasing webpages.
